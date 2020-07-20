@@ -3,7 +3,7 @@ RESOLUSI
 - Terus meningkatkan SKill dibidang Web Programming
 - Mengisi konten blog Dev Technology dengan tips-tips yang telah dipelajari guna mengingat kembali codingan serta membuat dokumentasi agar tetap ingat 
 - Konten kedepanya berisi tentang ngoding, ngedesain, ngestory
-- Membuat Portofolio di Website dan Sosia Media
-- Menambah sertifikat 
+- Membuat Portofolio di Website dan Sosia Media 
 - Membuat banyak project tentang materi yang sudah dipahami
+- Membuat youtube setelah blog merasa sudah berkembang dan bagus
 
