@@ -3,5 +3,6 @@ RENCANA KONTEN
   + react
   + JS
   + PHP
-- NGEDESAIN
+    -YII
+    -Laravel
 - NGESTORY
