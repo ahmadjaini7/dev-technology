@@ -4,5 +4,6 @@ RENCANA KONTEN
   + JS
   + PHP
     - CI
+    - Laravel
 - NGEDESAIN
 - NGESTORY
